@@ -1,0 +1,5 @@
+Название таблицы | Название первичного ключа
+order_items      | order_id, product_uuid
+orders           | order_id
+products         | product_uuid
+users            | user_id
